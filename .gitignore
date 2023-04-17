@@ -1,0 +1,43 @@
+# Archivos de configuración de Visual Studio Code
+.vscode/
+# Ambientes virtuales de Python
+venv/
+env/
+*.venv/
+*.pyc
+__pycache__/
+
+# Archivos de registro
+*.log
+# Archivos generados automáticamente
+*.pyc
+*.pyo
+*.pyd
+# Archivos generados automáticamente (cont)
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+*.egg-info
+bin/
+lib/
+include/
+pip-selfcheck.json
+# Archivos de credenciales y claves de API
+*.env
+*.key
+*.pem
+
+# Archivos de instalación
+*.lock
+*.bak
+*.swp
+
+# Archivos de caché
+*.cache
+*.sqlite3
